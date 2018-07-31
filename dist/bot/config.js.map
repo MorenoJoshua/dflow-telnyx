@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/bot/config.js"],"names":["DialogFlow","token","Telnyx","from"],"mappings":";;;;;kBAAe;AACbA,cAAY;AACVC,WAAO;AADG,GADC;AAIbC,UAAQ;AACND,WAAO,UADD;AAENE,UAAM;AAFA;AAJK,C","file":"config.js","sourcesContent":["export default {\n  DialogFlow: {\n    token: 'CHANGEME',\n  },\n  Telnyx: {\n    token: 'CHANGEME',\n    from: 'CHANGEME',\n  },\n}"]}
